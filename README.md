@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em Formação | Java • Flutter • Firebase • n8n • IA`**
 
-Olá! Meu nome é **Nicoly Cristina**, sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvo projetos nas áreas de **Java (CRUD, MVC, DAO, MySQL)**, **Dart/Flutter**, **Firebase**, **Automação com n8n** e **Inteligência Artificial aplicada a sistemas**.
+Olá! Meu nome é **Nicoly Cristina**, sou estudante de **Engenharia de Software** e desenvolvo projetos nas áreas de **Java (CRUD, MVC, DAO, MySQL)**, **Dart/Flutter**, **Firebase**, **Automação com n8n** e **Inteligência Artificial aplicada a sistemas**.
 
 Trabalho criando soluções voltadas para web e mobile, incluindo:
 - **Automação de processos no n8n** (integrações, bots, webhooks, automação de fluxo, tarefas inteligentes com IA);  
