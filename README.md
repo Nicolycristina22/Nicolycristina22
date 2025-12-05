@@ -78,17 +78,19 @@ Trabalho criando soluções voltadas para web e mobile, incluindo:
 <p>
   <img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=nicolycristina22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="200"
+    src="https://gh-stats-phi.vercel.app/api?username=nicolycristina22&show_icons=true&theme=tokyonight"
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycristina22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    height="200"
+    src="https://gh-stats-phi.vercel.app/api/top-langs/?username=nicolycristina22&theme=tokyonight&layout=compact"
+  />
+</p>
+
+<br><br>
+
   />
 </p>
 
