@@ -116,7 +116,7 @@ Trabalho criando soluções voltadas para web e mobile, incluindo:
   <img 
     align="left" 
     height="200"
-    src="https://gh-stats-phi.vercel.app/api/top-langs/?username=nicolycristina22&theme=tokyonight&layout=compact"
+    src="https://gh-stats-phi.vercel.app/api/top-langs/?username=Nicolycristina22&theme=tokyonight&layout=compact"
   />
 </p>
 
