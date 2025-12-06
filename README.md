@@ -102,32 +102,11 @@ Trabalho criando soluções voltadas para web e mobile, incluindo:
 
 <br/><br/>
 
----
 
-# 📊 Estatísticas
-
-
-<p>
-  <img 
-    align="left" 
-    height="200"
-    src="https://gh-stats-phi.vercel.app/api?username=nicolycristina22&show_icons=true&theme=tokyonight"
-  />
-  <img 
-    align="left" 
-    height="200"
-    src="https://gh-stats-phi.vercel.app/api/top-langs/?username=Nicolycristina22&theme=tokyonight&layout=compact"
-  />
-</p>
-
-<br/><br/><br/><br/>
 
 ---
 
 
-<br><br>
-
----
 
 ## 📬 Como falar comigo
 📧 *nicolyc734@gmail.com*  
